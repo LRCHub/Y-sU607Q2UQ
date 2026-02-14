@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "base_track": "アトモスフィア",
+  "base_track": "アトモスフィア（feat. 初音ミク）",
   "base_artist": "はるまきごはん",
-  "createdAt": "2026-02-14T09:54:59.669918Z",
+  "createdAt": "2026-02-14T10:04:59.246500Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "アトモスフィア - (haruno Remix)",
-      "artist": "Harumakigohan",
-      "has_synced": true,
-      "path": "select/01_アトモスフィア_-_(haruno_Remix)_Harumakigohan.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
