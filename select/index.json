@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アトモスフィア",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-14T09:54:59.669918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アトモスフィア - (haruno Remix)",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/01_アトモスフィア_-_(haruno_Remix)_Harumakigohan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アトモスフィア (feat. Hatsune Miku)",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_アトモスフィア_(feat._Hatsune_Miku)_はるまきごはん.txt"
+    }
+  ]
+}
